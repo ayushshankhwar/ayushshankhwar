@@ -3,13 +3,12 @@
 ### [Portfolio](https://ayushshankhwar.github.io./) 
 ## 
 ## My name is Ayush Shankhwar  :sunglasses: 🔭 😄
-As Kanye West said:
 
-> We're living the future so
-> the present is our past.
-`I think you should use an
-<addr>` element here instead.
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
+>“ Code is like humor. When you have to explain it, it’s bad.” – `Cory House`
+>
 *I am interested in the web development and programming. Currently working on something really big...*	:nerd_face:
 #
 I a good learner,tech enthusiast, creative, honest and hard working. I also belive in concepts of team working. From the childhood only I was very interested in the field of computer science so I dediced to make my career in this field. I love to code and play with languages and tools.
