@@ -2,12 +2,10 @@
 ### 
 ### [Portfolio](https://ayushshankhwar.github.io./) 
 ## 
-## My name is Ayush Shankhwar  :sunglasses: 🔭 😄
+## *My name is Ayush Shankhwar*  :sunglasses: 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
->“ Code is like humor. When you have to explain it, it’s bad.” – `Cory House`
+>“ ***Code is like humor. When you have to explain it, it’s bad.”*** – `Cory House`
 >
 *I am interested in the web development and programming. Currently working on something really big...*	:nerd_face:
 #
