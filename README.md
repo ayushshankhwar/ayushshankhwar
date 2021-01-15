@@ -2,13 +2,13 @@
 ### 
 ### [Portfolio](https://ayushshankhwar.github.io./) 
 ## 
-## My name is Ayush Shankhwar  :sunglasses: :japanese_ogre:
+## My name is Ayush Shankhwar  :sunglasses: 🔭 😄
 As Kanye West said:
 
 > We're living the future so
 > the present is our past.
-I think you should use an
-`<addr>` element here instead.
+`I think you should use an
+<addr>` element here instead.
 
 *I am interested in the web development and programming. Currently working on something really big...*	:nerd_face:
 #
